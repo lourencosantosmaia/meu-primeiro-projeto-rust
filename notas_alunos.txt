@@ -1,0 +1,3 @@
+Aluno: Fernando Magalhães | Nota: 3.4 | Status: REPROVADO
+Aluno: Vanessa Messias | Nota: 2 | Status: REPROVADO
+Aluno: lourenço maia | Nota: 7.7 | Status: APROVADO
